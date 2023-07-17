@@ -6,7 +6,7 @@
     <img src="http://github-readme-streak-stats.herokuapp.com?user=Onionbai&theme=dracula">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Onionbai&theme=monokai">-->
 </p>
-<a href="mailto:xiaobaicomes@gmail.com">联系我吧</a>
+
 <!-- The plugin code is from Nriver@github.com/Nriver -->
 
 
