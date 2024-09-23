@@ -1,9 +1,5 @@
 ### Hi there, I'm Onion Bai👋
-<p align="center">
-    <a href="https://github.com/Onionbai"><img align="center" src="https://moe.stayclose.top/get/@:onionbai?theme=rule34"></a>
-</p>
 
-<!-- The plugin code is from Nriver@github.com/Nriver -->
 
 
 
@@ -11,7 +7,7 @@
 <!--
 **onionbai/onionbai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-
+ <img align="center" src="https://moe.stayclose.top/get/@:onionbai?theme=rule34">
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
