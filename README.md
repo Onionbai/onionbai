@@ -1,7 +1,8 @@
 ### Hi there, I'm Onion Bai👋
 <p align="center">
-    <a href="https://github.com/Onionbai"><img align="center" src="https://moe.stayclose.top/get/@onionbai?theme=rule34"></a><br>
-    <img src="https://github-readme-stats.vercel.app/api?username=Onionbai&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+    <a href="https://github.com/Onionbai"><img align="center" src="https://moe.stayclose.top/get/@onionbai?theme=rule34"></a>
+    
+    <!-- <img src="https://github-readme-stats.vercel.app/api?username=Onionbai&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"> />
     <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onionbai&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /> 
     <img src="http://github-readme-streak-stats.herokuapp.com?user=Onionbai&theme=dracula">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Onionbai&theme=monokai">-->
